@@ -7,3 +7,15 @@ Exploratory Data Analysis of Netflix Titles Dataset, it is Python-based analysis
 - Feature Engineering
 - Data visualizations
 - Content insights
+
+## 📊 Dataset Information
+The analysis uses the Netflix titles dataset which includes:
+- Title information
+- Type (Movie/TV Show)
+- Release date
+- Country
+- Duration
+- Rating
+- Cast 
+- Description
+- Date added to Netflix
